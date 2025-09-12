@@ -1,0 +1,9 @@
+/backups/
+/crash-reports/
+/downloads/
+/logs/
+/screenshots/
+command_history.txt
+options.txt
+realms_persistence.json
+usercache.json
