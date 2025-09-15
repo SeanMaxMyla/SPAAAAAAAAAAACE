@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:add",
+  "argument1": "space:ring_size",
+  "argument2": "space:ring_spread"
+}

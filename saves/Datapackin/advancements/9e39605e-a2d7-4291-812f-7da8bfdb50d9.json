@@ -1,0 +1,24 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-14 23:45:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-09-14 23:45:58 -0400",
+      "minecraft:river": "2025-09-14 23:46:37 -0400",
+      "minecraft:dripstone_caves": "2025-09-14 23:46:26 -0400",
+      "minecraft:savanna": "2025-09-14 23:46:41 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-09-14 23:54:54 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4440
+}

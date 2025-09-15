@@ -1,0 +1,52 @@
+{
+  "default_block": {
+    "Name": "stone"
+  },
+  "default_fluid": {
+    "Name": "minecraft:water"
+  },
+  "sea_level": 0,
+  "disable_mob_generation": false,
+  "aquifers_enabled": true,
+  "ore_veins_enabled": true,
+  "legacy_random_source": false,
+  "noise": {
+    "min_y": -64,
+    "height": 384,
+    "size_horizontal": 1,
+    "size_vertical": 1
+  },
+  "noise_router": {
+    "barrier": 0,
+    "fluid_level_floodedness": 0,
+    "fluid_level_spread": 0,
+    "lava": 0,
+    "vein_toggle": 0,
+    "vein_ridged": 0,
+    "vein_gap": 0,
+    "temperature": 0,
+    "vegetation": 0,
+    "continents": "space:ring_spread",
+    "erosion": 0,
+    "depth": 0,
+    "ridges": "space:biome_spread",
+    "initial_density_without_jaggedness": {
+      "type": "minecraft:constant",
+      "argument": 30
+    },
+    "final_density": {
+      "type": "minecraft:y_clamped_gradient",
+      "from_y": -64,
+      "to_y": 0,
+      "from_value": 1,
+      "to_value": 1
+    }
+  },
+  "spawn_target": [],
+  "surface_rule": {
+    "type": "minecraft:block",
+    "result_state": {
+      "Name": "minecraft:grass_block"
+    }
+  }
+}
