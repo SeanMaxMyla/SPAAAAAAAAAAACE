@@ -34,13 +34,7 @@
       "type": "minecraft:constant",
       "argument": 30
     },
-    "final_density": {
-      "type": "minecraft:y_clamped_gradient",
-      "from_y": -64,
-      "to_y": 0,
-      "from_value": 1,
-      "to_value": 1
-    }
+    "final_density": "space:world/lowlands_gen"
   },
   "spawn_target": [],
   "surface_rule": {
