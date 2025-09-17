@@ -6,7 +6,7 @@
   "when_in_range": {
     "type": "minecraft:noise",
     "noise": "minecraft:temperature",
-    "xz_scale": 6,
+    "xz_scale": 5,
     "y_scale": 0
   },
   "when_out_of_range": "space:ring_calc"

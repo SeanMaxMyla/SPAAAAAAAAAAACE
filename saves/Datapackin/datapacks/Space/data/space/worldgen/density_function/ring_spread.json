@@ -2,7 +2,7 @@
   "type": "minecraft:range_choice",
   "input": "space:ring_noise_function",
   "min_inclusive": -10,
-  "max_exclusive": 1.4,
+  "max_exclusive": 1.2,
   "when_in_range": -1,
   "when_out_of_range": 1
 }
