@@ -1,7 +1,0 @@
-{
-  "pack": {
-    "pack_format": 64,
-		"supported_formats": [64, 999],
-    "description": "The base Cube's Craft resource pack."
-  }
-}

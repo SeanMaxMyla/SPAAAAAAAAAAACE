@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/held/block_held",
+  "textures": {
+    "all": "minecraft:item/held/mud"
+  }
+}

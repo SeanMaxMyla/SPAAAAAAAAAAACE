@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna": "2025-09-16 19:03:29 -0400",
       "minecraft:plains": "2025-09-12 16:20:02 -0400"
     },
     "done": false
@@ -719,5 +720,41 @@
     },
     "done": true
   },
-  "DataVersion": 4440
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-16 21:24:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-09-16 21:33:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-16 23:02:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-16 21:47:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-17 00:01:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-17 00:01:15 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4549
 }

@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sprite/short_grass",
+            "tints": [
+                {
+                    "type": "minecraft:grass",
+                    "downfall": 1.0,
+                    "temperature": 0.5
+                }
+            ]
+        },
+        "when": [
+          "gui"
+        ]
+      }
+    ],
+    "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/held/short_grass",
+            "tints": [
+                {
+                    "type": "minecraft:grass",
+                    "downfall": 1.0,
+                    "temperature": 0.5
+                }
+            ]
+    },
+    "property": "minecraft:display_context"
+  }
+}

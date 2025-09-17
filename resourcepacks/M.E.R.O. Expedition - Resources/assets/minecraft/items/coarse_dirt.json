@@ -1,0 +1,31 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sprite/coarse_dirt"
+        },
+        "when": [
+          "gui"
+        ]
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/coarse_dirt"
+        },
+        "when": [
+          "firstperson_lefthand",
+          "firstperson_righthand"
+        ]
+      }
+    ],
+    "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/held/coarse_dirt"
+    },
+    "property": "minecraft:display_context"
+  }
+}

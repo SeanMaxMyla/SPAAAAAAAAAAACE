@@ -1,0 +1,31 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sprite/mud"
+        },
+        "when": [
+          "gui"
+        ]
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/mud"
+        },
+        "when": [
+          "firstperson_lefthand",
+          "firstperson_righthand"
+        ]
+      }
+    ],
+    "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/held/mud"
+    },
+    "property": "minecraft:display_context"
+  }
+}

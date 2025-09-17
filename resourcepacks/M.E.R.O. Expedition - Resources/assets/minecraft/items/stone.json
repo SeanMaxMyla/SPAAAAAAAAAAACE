@@ -1,0 +1,31 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sprite/stone"
+        },
+        "when": [
+          "gui"
+        ]
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/stone"
+        },
+        "when": [
+          "firstperson_lefthand",
+          "firstperson_righthand"
+        ]
+      }
+    ],
+    "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/held/stone"
+    },
+    "property": "minecraft:display_context"
+  }
+}

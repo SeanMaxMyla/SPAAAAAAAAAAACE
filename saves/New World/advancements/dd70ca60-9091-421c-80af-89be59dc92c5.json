@@ -8,6 +8,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-09-12 18:39:55 -0400",
+      "minecraft:sparse_jungle": "2025-09-16 21:43:09 -0400",
+      "minecraft:jungle": "2025-09-16 21:42:45 -0400",
       "minecraft:river": "2025-09-12 18:39:53 -0400",
       "minecraft:lukewarm_ocean": "2025-09-12 18:39:32 -0400",
       "minecraft:stony_shore": "2025-09-12 18:39:23 -0400",
@@ -16,5 +18,5 @@
     },
     "done": false
   },
-  "DataVersion": 4440
+  "DataVersion": 4549
 }
