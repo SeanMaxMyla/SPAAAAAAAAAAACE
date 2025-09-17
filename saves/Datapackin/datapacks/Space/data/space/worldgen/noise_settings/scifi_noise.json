@@ -30,17 +30,100 @@
     "erosion": 0,
     "depth": 0,
     "ridges": "space:biome_spread",
-    "initial_density_without_jaggedness": {
-      "type": "minecraft:constant",
-      "argument": 30
-    },
-    "final_density": "space:world/lowlands_gen"
+    "preliminary_surface_level": 0,
+    "final_density": "space:world/interpolate"
   },
   "spawn_target": [],
-  "surface_rule": {
-    "type": "minecraft:block",
-    "result_state": {
-      "Name": "minecraft:grass_block"
-    }
+"surface_rule": {
+    "type": "minecraft:sequence",
+    "sequence": [
+      {
+        "type": "minecraft:condition",
+        "if_true": {
+          "type": "minecraft:biome",
+          "biome_is": [
+            "space:lowlands",
+            "space:special1"
+          ]
+        },
+        "then_run": {
+          "type": "minecraft:condition",
+          "if_true": {
+            "type": "minecraft:stone_depth",
+            "offset": 0,
+            "surface_type": "floor",
+            "add_surface_depth": false,
+            "secondary_depth_range": 0
+          },
+          "then_run": {
+            "type": "minecraft:block",
+            "result_state": {
+              "Name": "minecraft:grass_block"
+            }
+          }
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "if_true": {
+          "type": "minecraft:biome",
+          "biome_is": [
+            "space:jagged_pass"
+          ]
+        },
+        "then_run": {
+          "type": "sequence",
+          "sequence": [
+                        {
+              "type": "minecraft:condition",
+              "if_true": {
+                "type": "minecraft:noise_threshold",
+                "noise": "space:thicket_gen",
+                "min_threshold": 0.4,
+                "max_threshold": 2
+              },
+              "then_run": {
+                "type": "minecraft:condition",
+                "if_true": {
+                  "type": "minecraft:stone_depth",
+                  "offset": 2,
+                  "surface_type": "floor",
+                  "add_surface_depth": false,
+                  "secondary_depth_range": 0
+                },
+                "then_run": {
+                  "type": "minecraft:block",
+                  "result_state": {
+                    "Name": "minecraft:muddy_mangrove_roots"
+                  }
+                }
+              }
+            },
+            {
+                "type": "minecraft:condition",
+                "if_true": {
+                  "type": "minecraft:stone_depth",
+                  "offset": 3,
+                  "surface_type": "floor",
+                  "add_surface_depth": false,
+                  "secondary_depth_range": 1
+                },
+                "then_run": {
+                  "type": "minecraft:block",
+                  "result_state": {
+                    "Name": "sand"
+                  }
+              }
+            },
+            {
+              "type": "minecraft:block",
+              "result_state": {
+              "Name": "sandstone"
+              }
+            }
+          ]
+        }
+      }
+    ]
   }
 }

@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:interpolated",
+  "argument": "space:world/world_gen"
+}

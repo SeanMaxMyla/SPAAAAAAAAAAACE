@@ -3,6 +3,8 @@
         "description": {
             "translate": "dataPack.vanilla.description"
         },
-        "pack_format": 81
+        "min_format": 87,
+        "max_format": 999,
+        "pack_format": 87
     }
 }
