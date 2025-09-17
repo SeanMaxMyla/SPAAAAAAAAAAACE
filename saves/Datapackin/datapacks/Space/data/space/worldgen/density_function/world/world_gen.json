@@ -27,8 +27,8 @@
               "argument1": {
                 "type": "minecraft:range_choice",
                 "input": "space:biome_spread",
-                "min_inclusive": -0.2,
-                "max_exclusive": 0.2,
+                "min_inclusive": -0.7,
+                "max_exclusive": 0.7,
                 "when_in_range": "space:world/jaggedpass_gen",
                 "when_out_of_range": 0
               },
