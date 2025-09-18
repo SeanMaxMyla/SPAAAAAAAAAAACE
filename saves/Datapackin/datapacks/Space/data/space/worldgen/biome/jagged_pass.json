@@ -16,6 +16,6 @@
   "spawn_costs": {},
   "carvers": [],
   "features": [
-    ["space:thicket_clumps"]
+    ["space:thicket_clumps"],["space:thicket_clumps"],["space:thicket_clumps"],["space:thicket_clumps"]
   ]
 }
