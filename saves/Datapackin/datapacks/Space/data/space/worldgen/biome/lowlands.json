@@ -15,5 +15,8 @@
   "spawners": {},
   "spawn_costs": {},
   "carvers": [],
-  "features": []
+  "features": [
+    ["patch_grass_plain"],
+    ["space:rebreather_place"]
+  ]
 }
