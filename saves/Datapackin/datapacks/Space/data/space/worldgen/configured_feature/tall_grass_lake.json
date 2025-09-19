@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "tries": 64,
+    "xz_spread": 6,
+    "y_spread": 2,
+    "feature": {
+      "feature": {
+        "config": {
+          "to_place": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:tall_grass"
+            }
+          },
+          "schedule_tick": true
+        },
+        "type": "minecraft:simple_block"
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:matching_blocks",
+            "offset": [
+              0,
+              -1,
+              0
+            ],
+            "blocks": [
+              "minecraft:mud"
+            ]
+          }
+        },
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:air"
+          }
+        }
+      ]
+    }
+  }
+}

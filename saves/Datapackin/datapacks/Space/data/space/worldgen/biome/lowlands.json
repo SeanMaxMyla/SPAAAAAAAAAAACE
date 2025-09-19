@@ -17,6 +17,8 @@
   "carvers": [],
   "features": [
     ["patch_grass_plain"],
-    ["space:rebreather_place"]
+    ["space:rebreather_place"],
+    ["space:lake_place"],
+    ["space:tall_grass_lake"]
   ]
 }
