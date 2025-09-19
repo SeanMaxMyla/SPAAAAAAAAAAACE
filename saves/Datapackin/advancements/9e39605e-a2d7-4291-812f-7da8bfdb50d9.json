@@ -206,6 +206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2025-09-18 19:07:12 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
       "has_leaves": "2025-09-18 19:09:58 -0400"
@@ -215,12 +221,6 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-09-18 19:09:59 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
-    "criteria": {
-      "has_closed_eyeblossom": "2025-09-18 19:07:12 -0400"
     },
     "done": true
   },
@@ -236,5 +236,5 @@
     },
     "done": true
   },
-  "DataVersion": 4549
+  "DataVersion": 4550
 }
