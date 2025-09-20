@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:fossil",
+  "config": {
+    "max_empty_corners_allowed": 7,
+    "fossil_structures": [
+        "mero:droop_trees/droop_tree_small1"
+    ],
+    "overlay_structures": [
+        "mero:droop_trees/droop_tree_small1"
+    ],
+    "fossil_processors": "minecraft:empty",
+    "overlay_processors": "minecraft:empty"
+    }
+}
