@@ -732,15 +732,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-09-16 23:02:32 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-09-16 21:47:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-16 23:02:32 -0400"
     },
     "done": true
   },
@@ -756,5 +756,5 @@
     },
     "done": true
   },
-  "DataVersion": 4549
+  "DataVersion": 4550
 }
