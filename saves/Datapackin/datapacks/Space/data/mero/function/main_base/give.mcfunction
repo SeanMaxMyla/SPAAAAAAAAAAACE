@@ -1,1 +1,0 @@
-give @p allay_spawn_egg[custom_name=[{"text":"Oxygen Generator","color":"aqua"}],lore=[[{text:"You should probably place it down",italic:false}]],entity_data={id:armor_stand,Invisible:1b,NoBasePlate:1b,DisabledSlots:0,Tags:[base,setup],equipment:{head:{id:iron_block}}}] 1

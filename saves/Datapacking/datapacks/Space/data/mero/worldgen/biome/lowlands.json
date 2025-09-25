@@ -1,0 +1,24 @@
+{
+  "temperature": 1,
+  "downfall": 0,
+  "has_precipitation": true,
+  "temperature_modifier": "none",
+  "effects": {
+    "sky_color": 10610687,
+    "fog_color": 14612479,
+    "water_color": 16767095,
+    "water_fog_color": 16767095,
+    "grass_color": 16767095,
+    "foliage_color": 16767095,
+    "dry_foliage_color": 16767095
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": [],
+  "features": [
+    ["patch_grass_plain"],
+    ["mero:lowlands/rebreather"],
+    ["mero:tall_grass_clumps"],
+    ["mero:lowlands/droop_trees"]
+  ]
+}

@@ -1,1 +1,0 @@
-scoreboard players remove @a[tag=!in_range,scores={oxygen=-99..}] oxygen 1
