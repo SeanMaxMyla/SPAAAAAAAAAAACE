@@ -1,0 +1,63 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/bush0",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/bush0",
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/bush0",
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/bush0",
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/bush1",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/bush1",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/bush1",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/bush1",
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/bush2",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/bush2",
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/bush2",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/bush2",
+        "y": 270,
+        "weight": 1
+      }
+    ]
+  }
+}
