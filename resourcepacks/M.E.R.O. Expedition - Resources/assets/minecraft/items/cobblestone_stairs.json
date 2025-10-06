@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/sprite/stone"
+          "model": "minecraft:item/sprite/cobblestone_stairs"
         },
         "when": [
           "gui"
@@ -14,7 +14,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:block/stone"
+          "model": "minecraft:block/cobblestone_stairs"
         },
         "when": [
           "firstperson_lefthand",
@@ -24,7 +24,7 @@
     ],
     "fallback": {
         "type": "minecraft:model",
-        "model": "minecraft:item/held/stone"
+        "model": "minecraft:item/held/cobblestone_stairs"
     },
     "property": "minecraft:display_context"
   }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/held/block_stairs_held",
   "textures": {
-    "all": "minecraft:item/held/stone"
+    "all": "minecraft:item/held/cobblestone"
   }
 }
