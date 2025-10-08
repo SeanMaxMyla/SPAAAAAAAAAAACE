@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/polished_blackstone_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/polished_blackstone_slab_double"
+    },
+    "type=top": {
+      "model": "minecraft:block/polished_blackstone_slab_top"
+    },
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/blackstone_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

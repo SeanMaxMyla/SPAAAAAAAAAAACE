@@ -4,13 +4,13 @@
   "has_precipitation": true,
   "temperature_modifier": "none",
   "effects": {
-    "sky_color": 10610687,
-    "fog_color": 14612479,
-    "water_color": 16767095,
-    "water_fog_color": 16767095,
+    "sky_color": 13619455,
+    "fog_color": 14609151,
+    "water_color": 6454886,
+    "water_fog_color": 6454886,
     "grass_color": 16767095,
     "foliage_color": 16767095,
-    "dry_foliage_color": 16767095
+    "dry_foliage_color": 9732435
   },
   "spawners": {},
   "spawn_costs": {},

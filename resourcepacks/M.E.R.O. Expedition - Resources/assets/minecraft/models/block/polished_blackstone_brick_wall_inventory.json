@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/wall_inventory_end",
+  "textures": {
+    "wall": "minecraft:block/polished_blackstone_bricks",
+    "post": "minecraft:block/polished_blackstone_brick_wall",
+	"end": "minecraft:block/polished_blackstone_brick_wall_top"
+  }
+}

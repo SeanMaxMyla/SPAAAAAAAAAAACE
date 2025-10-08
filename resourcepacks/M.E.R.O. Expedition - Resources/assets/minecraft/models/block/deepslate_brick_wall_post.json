@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_post_end",
+  "textures": {
+    "wall": "minecraft:block/deepslate_brick_wall",
+	"end": "minecraft:block/deepslate_brick_wall_top"
+  }
+}

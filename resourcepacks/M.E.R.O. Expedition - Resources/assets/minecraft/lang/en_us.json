@@ -7,6 +7,7 @@
   "block.minecraft.tall_grass": "Long Grass",
   "block.minecraft.bush": "Shrub",
   "block.minecraft.seagrass": "Seaweed",
+
   "block.minecraft.cobblestone": "Quartzite",
   "block.minecraft.cobblestone_slab": "Quartzite Slab",
   "block.minecraft.cobblestone_stairs": "Quartzite Stairs",
@@ -21,6 +22,9 @@
   "block.minecraft.mossy_stone_brick_slab": "Polished Quartzite Slab",
   "block.minecraft.mossy_stone_brick_stairs": "Polished Quartzite Stairs",
   "block.minecraft.mossy_stone_brick_wall": "Polished Quartzite Wall",
+
+  "block.minecraft.sand": "Limestone Sand",
+  "block.minecraft.muddy_mangrove_roots": "Limestone Sandy Soil",
   "block.minecraft.tuff": "Limestone",
   "block.minecraft.tuff_slab": "Limestone Slab",
   "block.minecraft.tuff_stairs": "Limestone Stairs",
@@ -35,6 +39,7 @@
   "block.minecraft.polished_tuff_slab": "Polished Limestone Slab",
   "block.minecraft.polished_tuff_stairs": "Polished Limestone Stairs",
   "block.minecraft.polished_tuff_wall": "Polished Limestone Wall",
+
   "block.minecraft.blackstone": "Marble",
   "block.minecraft.blackstone_slab": "Marble Slab",
   "block.minecraft.blackstone_stairs": "Marble Stairs",
@@ -49,6 +54,8 @@
   "block.minecraft.polished_blackstone_slab": "Polished Marble Slab",
   "block.minecraft.polished_blackstone_stairs": "Polished Marble Stairs",
   "block.minecraft.polished_blackstone_wall": "Polished Marble Wall",
+  "block.minecraft.magma_block": "Smoldering Marble",
+
   "block.minecraft.cobbled_deepslate": "Necroslate",
   "block.minecraft.cobbled_deepslate_slab": "Necroslate Slab",
   "block.minecraft.cobbled_deepslate_stairs": "Necroslate Stairs",
