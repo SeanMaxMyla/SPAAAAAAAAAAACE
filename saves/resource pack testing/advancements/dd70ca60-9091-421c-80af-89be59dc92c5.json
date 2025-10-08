@@ -2400,9 +2400,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_gold": {
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
-      "has_raw_gold_block": "2025-10-07 19:44:26 -0400"
+      "has_diamond_ore": "2025-10-07 19:44:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-10-07 19:44:03 -0400"
     },
     "done": true
   },
@@ -2418,18 +2424,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-10-07 19:44:03 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-10-07 19:44:03 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-10-07 19:44:24 -0400"
@@ -2439,6 +2433,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-10-07 19:44:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-10-07 19:44:26 -0400"
     },
     "done": true
   },
