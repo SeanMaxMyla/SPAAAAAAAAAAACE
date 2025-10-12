@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_post_end",
+  "textures": {
+    "wall": "minecraft:block/polished_tuff_wall",
+	"end": "minecraft:block/polished_tuff_wall_top"
+  }
+}

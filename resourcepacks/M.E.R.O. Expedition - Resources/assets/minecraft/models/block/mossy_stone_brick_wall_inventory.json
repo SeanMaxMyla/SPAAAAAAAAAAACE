@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/wall_inventory_end",
+  "textures": {
+    "wall": "minecraft:block/mossy_stone_bricks",
+    "post": "minecraft:block/mossy_stone_brick_wall",
+	"end": "minecraft:block/mossy_stone_brick_wall_top"
+  }
+}
