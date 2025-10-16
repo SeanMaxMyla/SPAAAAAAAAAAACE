@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "particle": "minecraft:block/acacia_planks",
+    "texture": "minecraft:block/acacia_pressure_plate"
+  }
+}

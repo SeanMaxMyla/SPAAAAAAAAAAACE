@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "tuff",
+  "ingredient": [
+    "minecraft:tuff",
+    "minecraft:polished_tuff",
+    "minecraft:tuff_bricks"
+  ],
+  "result": {
+    "id": "minecraft:tuff_brick_wall",
+    "count": 2
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/sign_template_angle1",
+	"textures": {
+	  "sign": "minecraft:block/acacia_sign",
+	  "particle": "minecraft:block/acacia_sign_particle"
+	}
+  }

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "blackstone",
+  "ingredient": "minecraft:blackstone",
+  "result": {
+    "id": "minecraft:polished_blackstone",
+    "count": 1
+  }
+}

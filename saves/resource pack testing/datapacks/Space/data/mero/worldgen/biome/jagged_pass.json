@@ -1,0 +1,21 @@
+{
+  "temperature": 1,
+  "downfall": 0,
+  "has_precipitation": true,
+  "temperature_modifier": "none",
+  "effects": {
+    "sky_color": 14677491,
+    "fog_color": 15792375,
+    "water_color": 8160108,
+    "water_fog_color": 8160108,
+    "grass_color": 12625277,
+    "foliage_color": 12625277,
+    "dry_foliage_color": 7955796
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": [],
+  "features": [
+    ["mero:jagged_pass/thicket_clumps"],["mero:jagged_pass/thicket_clumps"],["mero:jagged_pass/thicket_clumps"],["mero:jagged_pass/thicket_clumps"]
+  ]
+}
