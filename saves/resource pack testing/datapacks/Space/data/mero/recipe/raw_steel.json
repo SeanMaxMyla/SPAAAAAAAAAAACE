@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "coal",
+    "raw_iron",
+    "raw_iron",
+    "raw_iron"
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  }
+}
