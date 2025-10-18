@@ -7,4 +7,3 @@ function mero:oxygen/decay
 
 #Base
 execute as @e[tag=base] at @s run function mero:main_base/base_tick
-execute as @a at @s run function mero:main_base/calc_distance
