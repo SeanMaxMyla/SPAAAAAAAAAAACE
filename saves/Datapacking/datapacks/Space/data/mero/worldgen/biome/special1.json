@@ -15,5 +15,8 @@
   "spawners": {},
   "spawn_costs": {},
   "carvers": [],
-  "features": []
+  "features": [
+    ["mero:fungal_forest/spore_wood"],
+    ["mero:fungal_forest/spore_wood_small"]
+  ]
 }
