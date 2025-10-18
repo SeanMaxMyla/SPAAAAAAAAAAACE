@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:raw_gold",
+    "raw_copper",
+    "raw_copper"
+  ],
+  "result": {
+    "id": "minecraft:copper_nugget"
+  }
+}

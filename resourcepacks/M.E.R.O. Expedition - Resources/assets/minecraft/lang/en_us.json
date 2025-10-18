@@ -98,6 +98,8 @@
   "item.minecraft.acacia_boat": "Spindlewood Boat",
   "item.minecraft.acacia_chest_boat": "Spindlewood Boat with Chest",
 
+  "block.minecraft.crafting_table": "Synthesis Station",
+
   "item.minecraft.wooden_sword": "Rudimentary Shortsword",
   "item.minecraft.wooden_pickaxe": "Rudimentary Pick",
   "item.minecraft.wooden_axe": "Rudimentary Axe",
@@ -126,17 +128,41 @@
   "item.minecraft.flint": "Quartzite Pebble",
   "item.minecraft.prismarine_shard": "Wooden Handle",
   "item.minecraft.prismarine_crystals": "Reinforced Handle",
+  
+  "block.minecraft.coal_ore": "Quartzite Carbon Deposit",
+  "block.minecraft.emerald_ore": "Limestone Carbon Deposit",
+  "block.minecraft.deepslate_coal_ore": "Necroslate Carbon Deposit",
   "item.minecraft.coal": "Carbon",
+
+  "block.minecraft.copper_ore": "Quartzite Copper Deposit",
+  "block.minecraft.lapis_ore": "Limestone Copper Deposit",
+  "block.minecraft.deepslate_copper_ore": "Necroslate Copper Deposit",
   "item.minecraft.raw_copper": "Raw Copper",
+
+  "block.minecraft.iron_ore": "Quartzite Tin Deposit",
+  "block.minecraft.gold_ore": "Limestone Tin Deposit",
+  "block.minecraft.deepslate_iron_ore": "Necroslate Tin Deposit",
   "item.minecraft.raw_gold": "Raw Tin",
+
+  "block.minecraft.deepslate_gold_ore": "Necroslate Iron Deposit",
   "item.minecraft.raw_iron": "Raw Iron",
+  
+  "block.minecraft.deepslate_diamond_ore": "Necroslate Aluminum Deposit",
+  "item.minecraft.quartz": "Raw Aluminum",
+  "item.minecraft.diamond": "Aluminum Ingot",
+  "block.minecraft.diamond_block": "Block of Aluminum",
+
   "item.minecraft.copper_nugget": "Raw Bronze",
   "item.minecraft.copper_ingot": "Bronze Ingot",
   "block.minecraft.gold_block": "Block of Bronze",
+  
   "item.minecraft.iron_nugget": "Raw Steel",
   "item.minecraft.iron_ingot": "Steel Ingot",
   "block.minecraft.iron_block": "Block of Steel",
   "block.minecraft.iron_chain": "Steel Chain",
+
+  "block.minecraft.gilded_blackstone": "Marble Titanium Deposit",
+  "item.minecraft.lapis_lazuli": "Raw Titanium Chunk",
   "item.minecraft.gold_nugget": "Raw Titanium",
   "item.minecraft.gold_ingot": "Titanium Ingot",
   "block.minecraft.emerald_block": "Block of Titanium"

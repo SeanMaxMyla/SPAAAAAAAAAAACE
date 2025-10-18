@@ -16,6 +16,46 @@
             {
                 "namespace": "minecraft",
                 "path": "advancement"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/needs_stone_tool"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/needs_iron_tool"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/needs_diamond_tool"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/incorrect_for_wooden_tool"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/incorrect_for_stone_tool"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/incorrect_for_copper_tool"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/incorrect_for_iron_tool"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/incorrect_for_gold_tool"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/incorrect_for_diamond_tool"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "tags/block/incorrect_for_netherite_tool"
             }
         ]
 	}
