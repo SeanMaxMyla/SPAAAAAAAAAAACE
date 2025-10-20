@@ -8,6 +8,7 @@ scoreboard objectives add num dummy
 scoreboard players set #112 num 112
 scoreboard players set #100 num 100
 scoreboard players set #10 num 10
+scoreboard players set #5 num 5
 scoreboard players set #1 num 1
 scoreboard players set #0 num 0
 scoreboard players set #-1 num -1

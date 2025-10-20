@@ -7,4 +7,4 @@ function mero:variables_setup/base
 
 # Start oxygen decay loop
 function mero:oxygen/decay_loop
-function mero:main_base/player_targeter/looper
+function mero:base/player_targeter/looper

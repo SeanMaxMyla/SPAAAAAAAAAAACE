@@ -7,4 +7,4 @@ execute as @a run function mero:oxygen/bar/bar_control
 
 
 #Base
-execute as @e[tag=base] at @s run function mero:main_base/base_tick
+execute as @e[tag=base] at @s run function mero:base/base_tick
