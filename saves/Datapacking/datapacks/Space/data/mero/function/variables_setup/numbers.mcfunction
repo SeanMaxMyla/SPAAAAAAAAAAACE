@@ -1,9 +1,11 @@
 #Math scoreboard
 scoreboard objectives add math dummy
+scoreboard objectives add display dummy
 
 #Constant numbers used for math
 scoreboard objectives add num dummy
 
+scoreboard players set #112 num 112
 scoreboard players set #100 num 100
 scoreboard players set #10 num 10
 scoreboard players set #1 num 1

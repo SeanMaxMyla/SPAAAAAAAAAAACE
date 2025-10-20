@@ -6,5 +6,5 @@ scoreboard players set @a ox_max 600
 scoreboard players set @a oxygen 600
 
 # %
-scoreboard players set @a ox_over 110
+scoreboard players set @a ox_overcharge 110
 
