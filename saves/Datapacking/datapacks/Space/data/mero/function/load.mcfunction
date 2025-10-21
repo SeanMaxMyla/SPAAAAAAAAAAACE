@@ -1,3 +1,5 @@
+gamerule spawnRadius 3
+
 say hello
 function mero:variables_setup/oxygen
 function mero:variables_setup/debug

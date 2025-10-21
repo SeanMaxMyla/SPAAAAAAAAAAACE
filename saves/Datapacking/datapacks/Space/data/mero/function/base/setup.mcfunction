@@ -1,3 +1,5 @@
+execute at @s[tag=main] run setworldspawn
+
 # Range *10
 scoreboard players set @s range 30
 
@@ -13,3 +15,4 @@ ride @e[tag=upgrade,limit=1,sort=nearest] mount @s
 # INTERACT
 
 tag @s remove setup
+
