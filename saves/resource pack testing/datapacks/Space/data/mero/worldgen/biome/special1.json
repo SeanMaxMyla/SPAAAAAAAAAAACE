@@ -16,6 +16,8 @@
   "spawn_costs": {},
   "carvers": [],
   "features": [
+    ["patch_grass_plain"],
+    ["mero:tall_grass_clumps"],
     ["mero:fungal_forest/spore_wood"],
     ["mero:fungal_forest/spore_wood_small"]
   ]

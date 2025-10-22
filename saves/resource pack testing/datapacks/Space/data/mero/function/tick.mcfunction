@@ -8,3 +8,7 @@ execute as @a[tag=!setup_complete] run function mero:variables_setup/default_pla
 
 #Base
 execute as @e[tag=base] at @s run function mero:base/base_tick
+
+#Respawn
+execute as @a[scores={respawn=1}] run scoreboard players operation @s oxygen = @s ox_max
+scoreboard players set @a[scores={respawn=1}] respawn 0

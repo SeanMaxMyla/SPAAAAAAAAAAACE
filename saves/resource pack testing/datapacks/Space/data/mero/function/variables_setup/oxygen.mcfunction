@@ -3,3 +3,4 @@ scoreboard objectives add oxygen_queue dummy
 
 scoreboard objectives add ox_max dummy
 scoreboard objectives add ox_overcharge dummy
+scoreboard objectives add respawn deathCount
