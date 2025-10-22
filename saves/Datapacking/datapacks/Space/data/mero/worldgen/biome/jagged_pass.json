@@ -16,6 +16,15 @@
   "spawn_costs": {},
   "carvers": [],
   "features": [
-    ["mero:jagged_pass/thicket_clumps"],["mero:jagged_pass/thicket_clumps"],["mero:jagged_pass/thicket_clumps"],["mero:jagged_pass/thicket_clumps"]
+    ["mero:jagged_pass/thicket_clumps"],
+    ["mero:jagged_pass/thicket_clumps"],
+    ["mero:jagged_pass/thicket_clumps"],
+    ["mero:jagged_pass/thicket_clumps"],
+    ["ore_emerald"],
+    ["ore_emerald"],
+    ["ore_emerald"],
+    ["ore_emerald"],
+    ["ore_lapis"],
+    ["ore_gold"]
   ]
 }

@@ -20,6 +20,8 @@
     ["mero:lowlands/rebreather"],
     ["mero:tall_grass_clumps"],
     ["mero:lowlands/droop_trees"],
-    ["ore_copper"]
+    ["ore_copper"],
+    ["ore_iron_upper"],
+    ["ore_coal_upper"]
   ]
 }

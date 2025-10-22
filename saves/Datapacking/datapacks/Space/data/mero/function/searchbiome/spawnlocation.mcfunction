@@ -5,3 +5,4 @@ execute positioned over motion_blocking run setworldspawn ~ ~ ~
 execute positioned over motion_blocking run tp @a ~ ~ ~
 
 execute as @p run function mero:base/give
+give @p crafting_table
