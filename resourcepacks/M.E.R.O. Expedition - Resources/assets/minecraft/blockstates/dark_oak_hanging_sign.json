@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "attached=true": {
+      "model": "minecraft:block/hanging_sign_attached_chain",
+      "uvlock": false,
+      "y": 270
+    },
+    "attached=false,rotation=0": {
+      "model": "minecraft:block/hanging_sign_chain",
+      "uvlock": false
+    },
+    "attached=false,rotation=4": {
+      "model": "minecraft:block/hanging_sign_chain",
+      "uvlock": false,
+      "y": 90
+    },
+    "attached=false,rotation=8": {
+      "model": "minecraft:block/hanging_sign_chain",
+      "uvlock": false,
+      "y": 180
+    },
+    "attached=false,rotation=12": {
+      "model": "minecraft:block/hanging_sign_chain",
+      "uvlock": false,
+      "y": 270
+    }
+  }
+}

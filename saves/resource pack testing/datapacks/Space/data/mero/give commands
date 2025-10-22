@@ -1,0 +1,3 @@
+/give @p minecraft:music_disc_creator[!minecraft:jukebox_playable,minecraft:custom_data={upgrade:1}]
+/give @p minecraft:music_disc_creator[!minecraft:jukebox_playable,minecraft:custom_data={upgrade:2}]
+/give @p minecraft:music_disc_creator[!minecraft:jukebox_playable,minecraft:custom_data={upgrade:3}]

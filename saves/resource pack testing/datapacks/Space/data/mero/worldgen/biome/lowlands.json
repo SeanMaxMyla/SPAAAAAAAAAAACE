@@ -19,6 +19,7 @@
     ["patch_grass_plain"],
     ["mero:lowlands/rebreather"],
     ["mero:tall_grass_clumps"],
-    ["mero:lowlands/droop_trees"]
+    ["mero:lowlands/droop_trees"],
+    ["ore_copper"]
   ]
 }

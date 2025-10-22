@@ -8,6 +8,12 @@
   "block.minecraft.tall_grass": "Long Grass",
   "block.minecraft.bush": "Shrub",
   "block.minecraft.seagrass": "Seaweed",
+  "block.minecraft.short_dry_grass": "Short Dry Grass",
+  "block.minecraft.tall_dry_grass": "Long Dry Grass",
+  "block.minecraft.sweet_berry_bush": "Thorn Thicket",
+  "item.minecraft.feather": "Thorn",
+  "death.attack.sweetBerryBush": "%1$s was poked to death by a thorn thicket",
+  "death.attack.sweetBerryBush.player": "%1$s was poked to death by a thorn thicket while trying to escape %2$s",
 
   "block.minecraft.cobblestone": "Quartzite",
   "block.minecraft.cobblestone_slab": "Quartzite Slab",
@@ -98,7 +104,12 @@
   "item.minecraft.acacia_boat": "Spindlewood Boat",
   "item.minecraft.acacia_chest_boat": "Spindlewood Boat with Chest",
 
+  "item.minecraft.allay_spawn_egg": "Oxygen Generator",
   "block.minecraft.crafting_table": "Synthesis Station",
+  "block.minecraft.furnace": "Refinery",
+  "block.minecraft.campfire": "Grill",
+  "block.minecraft.stonecutter": "Laser Cutter",
+  "block.minecraft.chest": "Storage Unit",
 
   "item.minecraft.wooden_sword": "Rudimentary Shortsword",
   "item.minecraft.wooden_pickaxe": "Rudimentary Pick",
@@ -127,7 +138,6 @@
   "item.minecraft.stick": "Spindlewood Branch",
   "item.minecraft.flint": "Quartzite Pebble",
   "item.minecraft.prismarine_shard": "Wooden Handle",
-  "item.minecraft.prismarine_crystals": "Reinforced Handle",
   
   "block.minecraft.coal_ore": "Quartzite Carbon Deposit",
   "block.minecraft.emerald_ore": "Limestone Carbon Deposit",
@@ -151,6 +161,7 @@
   "item.minecraft.quartz": "Raw Aluminum",
   "item.minecraft.diamond": "Aluminum Ingot",
   "block.minecraft.diamond_block": "Block of Aluminum",
+  "item.minecraft.prismarine_crystals": "Aluminum Handle",
 
   "item.minecraft.copper_nugget": "Raw Bronze",
   "item.minecraft.copper_ingot": "Bronze Ingot",
@@ -160,10 +171,36 @@
   "item.minecraft.iron_ingot": "Steel Ingot",
   "block.minecraft.iron_block": "Block of Steel",
   "block.minecraft.iron_chain": "Steel Chain",
+  "block.minecraft.iron_bars": "Steel Bars",
+  "block.minecraft.iron_door": "Steel Door",
+  "block.minecraft.iron_trapdoor": "Steel Trapdoor",
 
   "block.minecraft.gilded_blackstone": "Marble Titanium Deposit",
   "item.minecraft.lapis_lazuli": "Raw Titanium Chunk",
   "item.minecraft.gold_nugget": "Raw Titanium",
   "item.minecraft.gold_ingot": "Titanium Ingot",
-  "block.minecraft.emerald_block": "Block of Titanium"
+  "block.minecraft.emerald_block": "Block of Titanium",
+  
+  "item.minecraft.apple": "Spindleberry",
+
+  "entity.minecraft.chicken": "Clucker",
+  "item.minecraft.chicken": "Raw Cluckchop",
+  "item.minecraft.cooked_chicken": "Cooked Cluckchop",
+  "item.minecraft.chicken_spawn_egg": "Clucker Spawn Egg",
+  "subtitles.entity.chicken.ambient": "Clucker clucks",
+  "subtitles.entity.chicken.death": "Clucker dies",
+  "subtitles.entity.chicken.egg": "Clucker plops",
+  "subtitles.entity.chicken.hurt": "Clucker hurts",
+  
+  "entity.minecraft.hoglin": "Fungal Boar",
+  "item.minecraft.porkchop": "Raw Fungal Ham",
+  "item.minecraft.cooked_porkchop": "Cooked Fungal Ham",
+  "item.minecraft.hoglin_spawn_egg": "Fungal Boar Spawn Egg",
+  "subtitles.entity.hoglin.ambient": "Fungal Boar growls",
+  "subtitles.entity.hoglin.angry": "Fungal Boar growls angrily",
+  "subtitles.entity.hoglin.attack": "Fungal Boar attacks",
+  "subtitles.entity.hoglin.converted_to_zombified": "Fungal Boar converts to Zoglin",
+  "subtitles.entity.hoglin.death": "Fungal Boar dies",
+  "subtitles.entity.hoglin.hurt": "Fungal Boar hurts",
+  "subtitles.entity.hoglin.retreat": "Fungal Boar retreats"
 }
