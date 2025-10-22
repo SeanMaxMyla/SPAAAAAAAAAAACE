@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraft:block/hanging_sign_wall_chain"
+    },
+    "facing=east": {
+      "model": "minecraft:block/hanging_sign_wall_chain",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecraft:block/hanging_sign_wall_chain",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft:block/hanging_sign_wall_chain",
+      "y": 270
+    }
+  }
+}

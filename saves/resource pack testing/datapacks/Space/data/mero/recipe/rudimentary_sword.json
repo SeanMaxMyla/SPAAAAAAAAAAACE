@@ -1,15 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
-  "pattern": [
-    " X",
-    "#X"
-  ],
   "key": {
-    "X": "minecraft:flint",
-    "#": "minecraft:prismarine_shard"
+    "#": "minecraft:prismarine_shard",
+    "X": "minecraft:flint"
   },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_sword"
   }
 }

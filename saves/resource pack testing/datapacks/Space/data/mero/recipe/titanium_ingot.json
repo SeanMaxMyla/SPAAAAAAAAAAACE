@@ -1,6 +1,5 @@
 {
   "type": "minecraft:smelting",
-  "category": "misc",
   "ingredient": "gold_nugget",
   "result": {
     "id": "minecraft:gold_ingot"

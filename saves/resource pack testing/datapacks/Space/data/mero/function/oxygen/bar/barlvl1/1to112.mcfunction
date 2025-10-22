@@ -1,0 +1,14 @@
+execute if score @s display matches 1..8 run function mero:oxygen/bar/barlvl1/depth/1to8
+execute if score @s display matches 9..16 run function mero:oxygen/bar/barlvl1/depth/9to16
+execute if score @s display matches 17..24 run function mero:oxygen/bar/barlvl1/depth/17to24
+execute if score @s display matches 25..32 run function mero:oxygen/bar/barlvl1/depth/25to32
+execute if score @s display matches 33..40 run function mero:oxygen/bar/barlvl1/depth/33to40
+execute if score @s display matches 41..48 run function mero:oxygen/bar/barlvl1/depth/41to48
+execute if score @s display matches 49..56 run function mero:oxygen/bar/barlvl1/depth/49to56
+execute if score @s display matches 57..64 run function mero:oxygen/bar/barlvl1/depth/57to64
+execute if score @s display matches 65..72 run function mero:oxygen/bar/barlvl1/depth/65to72
+execute if score @s display matches 73..80 run function mero:oxygen/bar/barlvl1/depth/73to80
+execute if score @s display matches 81..88 run function mero:oxygen/bar/barlvl1/depth/81to88
+execute if score @s display matches 89..96 run function mero:oxygen/bar/barlvl1/depth/89to96
+execute if score @s display matches 97..104 run function mero:oxygen/bar/barlvl1/depth/97to104
+execute if score @s display matches 105..112 run function mero:oxygen/bar/barlvl1/depth/105to112
