@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/oxygen_generator_bubble_template",
+  "textures": {
+	"particle": "block/oxygen_bubble/generator_level_1",
+    "bubble": "block/oxygen_bubble/generator_level_1"
+  }
+}
