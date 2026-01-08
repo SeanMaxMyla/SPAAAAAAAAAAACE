@@ -1,25 +1,32 @@
 {
   "stats": {
     "minecraft:used": {
-      "minecraft:smooth_stone": 6,
-      "minecraft:crafting_table": 4,
+      "minecraft:smooth_stone": 8,
+      "minecraft:stonecutter": 1,
+      "minecraft:crafting_table": 5,
+      "minecraft:white_carpet": 1,
       "minecraft:chest": 2,
-      "minecraft:chicken_spawn_egg": 2
+      "minecraft:chicken_spawn_egg": 2,
+      "minecraft:light_weighted_pressure_plate": 4,
+      "minecraft:pale_moss_carpet": 4,
+      "minecraft:acacia_shelf": 1,
+      "minecraft:heavy_weighted_pressure_plate": 4
     },
     "minecraft:custom": {
-      "minecraft:interact_with_crafting_table": 4,
-      "minecraft:time_since_rest": 7771,
-      "minecraft:walk_one_cm": 4151,
-      "minecraft:leave_game": 5,
-      "minecraft:play_time": 7771,
-      "minecraft:jump": 1,
-      "minecraft:time_since_death": 7771,
-      "minecraft:sprint_one_cm": 623,
-      "minecraft:open_chest": 3,
-      "minecraft:total_world_time": 18902,
-      "minecraft:fly_one_cm": 266,
-      "minecraft:crouch_one_cm": 334,
-      "minecraft:sneak_time": 91
+      "minecraft:interact_with_crafting_table": 8,
+      "minecraft:time_since_rest": 20869,
+      "minecraft:walk_one_cm": 8590,
+      "minecraft:leave_game": 6,
+      "minecraft:play_time": 20869,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 20869,
+      "minecraft:sprint_one_cm": 2102,
+      "minecraft:open_chest": 8,
+      "minecraft:total_world_time": 32009,
+      "minecraft:fly_one_cm": 3055,
+      "minecraft:crouch_one_cm": 550,
+      "minecraft:sneak_time": 286,
+      "minecraft:interact_with_stonecutter": 5
     }
   },
   "DataVersion": 4765
