@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": "copper_nugget",
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
+}

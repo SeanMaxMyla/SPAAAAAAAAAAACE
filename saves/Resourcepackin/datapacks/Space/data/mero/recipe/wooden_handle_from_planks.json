@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "prismarine_shard",
+  "category": "misc",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": "#mero:planks"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:prismarine_shard"
+  }
+}

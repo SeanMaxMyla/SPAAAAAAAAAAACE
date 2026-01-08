@@ -1,0 +1,60 @@
+{
+  "type": "mero:scifi_dimension_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "mero:scifi_noise",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "mero:special2",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": -0.5,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "mero:special1",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0.5,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "mero:jagged_pass",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "mero:lowlands",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 1,
+            "erosion": 0,
+            "weirdness": 2,
+            "depth": 0,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3 @@
+execute if score @s display matches ..0 run title @s subtitle [{"text":"\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000"},{"text":"\u00E1","font":"mero:ox_bar"}]
+execute if score @s display matches 1..112 run function mero:oxygen/bar/barlvl1/1to112
+execute if score @s display matches 113.. run function mero:oxygen/bar/barlvl1/113to224
