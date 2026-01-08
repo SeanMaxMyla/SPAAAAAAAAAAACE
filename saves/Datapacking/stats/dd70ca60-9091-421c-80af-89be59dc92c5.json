@@ -2,11 +2,12 @@
   "stats": {
     "minecraft:used": {
       "minecraft:stone": 1,
-      "minecraft:muddy_mangrove_roots": 7,
       "minecraft:grass_block": 29,
+      "minecraft:muddy_mangrove_roots": 7,
       "minecraft:sand": 3,
       "minecraft:water_bucket": 15,
       "minecraft:leaf_litter": 13,
+      "minecraft:chicken_spawn_egg": 5,
       "minecraft:blackstone": 3,
       "minecraft:bush": 1,
       "minecraft:acacia_wood": 8,
@@ -19,19 +20,19 @@
       "minecraft:crafting_table": 2
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 522,
-      "minecraft:walk_one_cm": 9569,
-      "minecraft:leave_game": 23,
+      "minecraft:time_since_rest": 6767,
+      "minecraft:walk_one_cm": 11389,
+      "minecraft:leave_game": 24,
       "minecraft:damage_taken": 500,
-      "minecraft:play_time": 45269,
-      "minecraft:jump": 47,
-      "minecraft:time_since_death": 465,
+      "minecraft:play_time": 51514,
+      "minecraft:jump": 49,
+      "minecraft:time_since_death": 6710,
       "minecraft:sprint_one_cm": 1472,
       "minecraft:fall_one_cm": 5333,
-      "minecraft:total_world_time": 91811,
-      "minecraft:fly_one_cm": 1464801,
+      "minecraft:total_world_time": 98155,
+      "minecraft:fly_one_cm": 1476563,
       "minecraft:crouch_one_cm": 214,
-      "minecraft:sneak_time": 1249,
+      "minecraft:sneak_time": 1287,
       "minecraft:deaths": 1
     }
   },
