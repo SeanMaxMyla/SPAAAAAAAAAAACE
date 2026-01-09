@@ -202,5 +202,18 @@
   "subtitles.entity.hoglin.converted_to_zombified": "Fungal Boar converts to Zoglin",
   "subtitles.entity.hoglin.death": "Fungal Boar dies",
   "subtitles.entity.hoglin.hurt": "Fungal Boar hurts",
-  "subtitles.entity.hoglin.retreat": "Fungal Boar retreats"
+  "subtitles.entity.hoglin.retreat": "Fungal Boar retreats",
+  
+  "entity.minecraft.Pufbol": "Pufbol",
+  "item.minecraft.Pufbol": "Raw Pufbol",
+  "item.minecraft.cooked_rabbit": "Cooked Pufbol",
+  "item.minecraft.rabbit_foot": "Pufbol's Foot",
+  "item.minecraft.rabbit_hide": "Pufbol Hide",
+  "item.minecraft.rabbit_stew": "Pufbol Stew",
+  "item.minecraft.rabbit_spawn_egg": "Pufbol Spawn Egg",
+  "subtitles.entity.Pufbol.ambient": "Pufbol squeaks",
+  "subtitles.entity.Pufbol.attack": "Pufbol attacks",
+  "subtitles.entity.Pufbol.death": "Pufbol dies",
+  "subtitles.entity.Pufbol.hurt": "Pufbol hurts",
+  "subtitles.entity.Pufbol.jump": "Pufbol hops"
 }
