@@ -1,39 +1,51 @@
 {
   "stats": {
-    "minecraft:used": {
-      "minecraft:stone": 1,
-      "minecraft:grass_block": 29,
-      "minecraft:muddy_mangrove_roots": 7,
-      "minecraft:sand": 3,
-      "minecraft:water_bucket": 15,
-      "minecraft:leaf_litter": 13,
-      "minecraft:chicken_spawn_egg": 5,
-      "minecraft:blackstone": 3,
-      "minecraft:bush": 1,
-      "minecraft:acacia_wood": 8,
-      "minecraft:dirt": 6
-    },
     "minecraft:picked_up": {
       "minecraft:leaf_litter": 1,
+      "minecraft:blue_egg": 1,
       "minecraft:stick": 1,
+      "minecraft:feather": 2,
       "minecraft:music_disc_creator": 3,
+      "minecraft:chicken": 1,
       "minecraft:crafting_table": 2
     },
+    "minecraft:killed": {
+      "minecraft:chicken": 3
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 6767,
-      "minecraft:walk_one_cm": 11389,
-      "minecraft:leave_game": 24,
-      "minecraft:damage_taken": 500,
-      "minecraft:play_time": 51514,
-      "minecraft:jump": 49,
-      "minecraft:time_since_death": 6710,
-      "minecraft:sprint_one_cm": 1472,
-      "minecraft:fall_one_cm": 5333,
-      "minecraft:total_world_time": 98155,
-      "minecraft:fly_one_cm": 1476563,
-      "minecraft:crouch_one_cm": 214,
-      "minecraft:sneak_time": 1287,
-      "minecraft:deaths": 1
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 43707,
+      "minecraft:walk_one_cm": 16322,
+      "minecraft:leave_game": 25,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 920,
+      "minecraft:damage_dealt": 120,
+      "minecraft:play_time": 100350,
+      "minecraft:jump": 95,
+      "minecraft:time_since_death": 43683,
+      "minecraft:sprint_one_cm": 7379,
+      "minecraft:fall_one_cm": 6233,
+      "minecraft:total_world_time": 147994,
+      "minecraft:fly_one_cm": 1840503,
+      "minecraft:crouch_one_cm": 773,
+      "minecraft:sneak_time": 3373,
+      "minecraft:deaths": 2
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 29,
+      "minecraft:sand": 3,
+      "minecraft:leaf_litter": 13,
+      "minecraft:chicken_spawn_egg": 5,
+      "minecraft:stone": 1,
+      "minecraft:muddy_mangrove_roots": 7,
+      "minecraft:water_bucket": 15,
+      "minecraft:crafting_table": 2,
+      "minecraft:blackstone": 3,
+      "minecraft:blue_egg": 58,
+      "minecraft:bush": 1,
+      "minecraft:acacia_wood": 8,
+      "minecraft:netherite_spear": 5,
+      "minecraft:dirt": 6
     }
   },
   "DataVersion": 4765
