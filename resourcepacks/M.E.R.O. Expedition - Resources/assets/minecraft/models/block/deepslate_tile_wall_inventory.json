@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/wall_inventory_end",
+  "textures": {
+    "wall": "minecraft:block/deepslate_tiles",
+    "post": "minecraft:block/deepslate_tile_wall",
+	"end": "minecraft:block/deepslate_tile_wall_top"
+  }
+}
