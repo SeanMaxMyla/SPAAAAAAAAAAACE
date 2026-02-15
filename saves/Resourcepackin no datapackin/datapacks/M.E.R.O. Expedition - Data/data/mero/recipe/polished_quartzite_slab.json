@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cobblestone",
+  "ingredient": [
+    "minecraft:cobblestone",
+    "minecraft:mossy_stone_bricks"
+  ],
+  "result": {
+    "id": "minecraft:mossy_stone_brick_slab",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "prismarine_shard",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:stick",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "minecraft:prismarine_shard"
+  }
+}

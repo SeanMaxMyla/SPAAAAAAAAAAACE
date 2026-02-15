@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:dirt"
+    },
+    "title": "oxflower",
+    "description": "used",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "touch_flower": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:closed_eyeblossom"
+      }
+    }
+  },
+  "rewards": {
+    "function": "mero:interactables/ox_flower/ox_flower_check"
+  }
+}

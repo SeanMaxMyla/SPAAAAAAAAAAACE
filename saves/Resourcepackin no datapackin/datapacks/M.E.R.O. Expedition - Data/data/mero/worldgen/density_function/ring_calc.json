@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:add",
+  "argument1": "mero:ring_size",
+  "argument2": "mero:ring_spread"
+}
