@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/chain",
-		"particle": "block/chain"
+		"0": "block/iron_chain",
+		"particle": "block/iron_chain"
 	},
 	"elements": [
 		{
