@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "min_format": 65,
+    "max_format": 999,
+    "description": "FOR DEVLOGS! Fills in the empty hud to make it look good in creative mode."
+  }
+}

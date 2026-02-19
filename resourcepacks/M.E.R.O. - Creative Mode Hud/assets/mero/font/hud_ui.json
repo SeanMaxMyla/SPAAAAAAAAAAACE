@@ -1,0 +1,11 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "mero:font/hud_empty.png",
+			"ascent": 191,
+			"height":256,
+			"chars": ["\u0001"]
+		}
+	]
+}
